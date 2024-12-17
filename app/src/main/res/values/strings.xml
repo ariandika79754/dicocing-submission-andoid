@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Belajar Pemrograman</string>
+    <string name="about">About</string>
+    <string name="dummybelajar">Use for: Android Language</string>
+    <string name="dummytitle">Kotlin</string>
+    <string name="dummydevice">Device: Linux, Windows, MacOS</string>
+    <string name="year">Year:</string>
+    <string name="dummybirth">2024</string>
+    <string name="laptop">Laptop:</string>
+    <string name="dummylaptop">Supported</string>
+    <string name="intro">Description</string>
+    <string name="dummyintro">Belajar pemrogrman Android menggunakan Kotlin.</string>
+</resources>
